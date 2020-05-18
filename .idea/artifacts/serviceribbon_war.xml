@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serviceribbon:war">
+    <output-path>$PROJECT_DIR$/serviceribbon/target</output-path>
+    <root id="archive" name="service-ribbon.war">
+      <element id="artifact" artifact-name="serviceribbon:war exploded" />
+    </root>
+  </artifact>
+</component>
